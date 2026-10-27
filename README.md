@@ -4,6 +4,7 @@
   <p><em>Enterprise database reliability, offline-first mobile engineering, and resilient full-stack systems.</em></p>
 
   <p>
+    <a href="https://cv.sadeyan.my.id/"><img src="https://img.shields.io/badge/Live%20CV-cv.sadeyan.my.id-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live CV" /></a>
     <a href="https://linkedin.com/in/fiqi-efendi"><img src="https://img.shields.io/badge/LinkedIn-fiqi--efendi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:fiqiefendi13@gmail.com"><img src="https://img.shields.io/badge/Email-fiqiefendi13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Fiqiefendiahmad"><img src="https://img.shields.io/badge/GitHub-Fiqiefendiahmad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -12,12 +13,17 @@
 
 ---
 
+### 🌐 Interactive Portfolio & CV
+Explore my full background, case studies, and live metrics at **[cv.sadeyan.my.id](https://cv.sadeyan.my.id/)**.
+
+---
+
 ### ⚡ About Me
 
-- 🏢 **Enterprise DBA**: Hands-on managing 24/7 mission-critical Oracle production databases with 99.9%+ availability, performance tuning (AWR), and automated backup/disaster-recovery routines.
+- 🏢 **Enterprise DBA**: Managing 24/7 mission-critical Oracle production databases with 99.9%+ availability, query tuning (AWR), and automated backup/recovery routines under strict SLAs.
 - 📱 **Mobile Application Specialist**: Architecting Android (Kotlin / Java) and Flutter apps with offline-first caching, clean MVVM, and production Google Play rollouts.
-- ⚙️ **Backend & Cloud**: Building scalable REST backends and integrations with Spring Boot, Python (Flask / FastAPI), Go, Docker, GCP, and Nginx.
-- 🤖 **AI & Automation**: Developing Gemini-powered RAG pipelines (Chroma / Langflow), automation bots, and multi-channel e-commerce synchronization engines.
+- ⚙️ **Backend & Cloud**: Scalable REST backends and automations with Spring Boot, Python (Flask / FastAPI), Go, Docker, GCP, and Nginx.
+- 🤖 **AI & Automation**: Building Gemini-powered RAG systems (Chroma / Langflow), automation bots, and multi-channel e-commerce synchronization engines.
 
 ---
 
@@ -40,9 +46,10 @@ AI & ML       :: Gemini API, RAG, Langflow, ChromaDB, Prompt Engineering
 
 ### 🚀 Highlighted Work
 
-- **Madrasahku**: Islamic learning platform built with Flutter Web and custom REST backend.
-- **Alufiliate**: Automated affiliate video production pipeline combining web scraping, Gemini LLM scripts, Edge-TTS, and video rendering.
-- **POS Kok Online**: Omnichannel POS system with two-way TikTok Shop & Shopee stock sync, idempotency, and automated webhooks.
+- **[Live Interactive CV](https://cv.sadeyan.my.id/)**: Personal portfolio & CV web platform with case studies and interactive metrics.
+- **[Madrasahku](https://islamic.sadeyan.my.id/#/home)**: Islamic learning platform built with Flutter Web and custom REST backend.
+- **[Alufiliate](https://alufiliate.sadeyan.my.id)**: Automated affiliate video production pipeline combining web scraping, Gemini LLM scripts, Edge-TTS, and video rendering.
+- **[POS Kok Online](https://poskoko.sadeyan.my.id/)**: Omnichannel POS system with two-way TikTok Shop & Shopee stock sync, idempotency, and automated webhooks.
 - **Tan Malaka AI**: Historical research assistant using RAG architecture, vector embeddings, and Gemini.
 
 ---
