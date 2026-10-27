@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Hi, I'm Azzar Budiyanto (Ahmad Fiqi Efendi) 👋</h1>
-  <p><strong>Full-Stack & Embedded Systems Engineer • Educator • Systems Hacker</strong></p>
-  <p><em>"Wong edan mah ajaib — Just enough engineering to get it done well."</em></p>
+  <h1>Hi, I'm Ahmad Fiqi Efendi 👋</h1>
+  <p><strong>Database Administrator · Mobile App Engineer · IT Project Lead</strong></p>
+  <p><em>Enterprise database reliability, offline-first mobile engineering, and resilient full-stack systems.</em></p>
 
   <p>
-    <a href="https://azzar.netlify.app/porto"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://x.com/siapa_hayosiapa"><img src="https://img.shields.io/badge/X-@siapa__hayosiapa-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://t.me/azzar_budiyanto"><img src="https://img.shields.io/badge/Telegram-@azzar__budiyanto-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://linkedin.com/in/fiqi-efendi"><img src="https://img.shields.io/badge/LinkedIn-fiqi--efendi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:fiqiefendi13@gmail.com"><img src="https://img.shields.io/badge/Email-fiqiefendi13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Fiqiefendiahmad"><img src="https://img.shields.io/badge/GitHub-Fiqiefendiahmad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -14,27 +14,36 @@
 
 ### ⚡ About Me
 
-- 🛠️ **Systems & Backend**: Python (FastAPI, Flask), SQLite, Docker, Linux self-hosting, resource-constrained architecture.
-- 📡 **IoT & Hardware**: ESP32, Arduino, LoRa, sensor networks, custom 3D enclosure integration.
-- 🎨 **Frontend & UI**: React, Tailwind CSS, clean responsive design.
-- 🤖 **AI & Automation**: Gemini & OpenAI APIs, autonomous agent workflows, prompt architecture.
-- 💡 **Philosophy**: Pragmatic, anti-bloat, FOSS-first, and building resilient systems that actually deliver.
+- 🏢 **Enterprise DBA**: Hands-on managing 24/7 mission-critical Oracle production databases with 99.9%+ availability, performance tuning (AWR), and automated backup/disaster-recovery routines.
+- 📱 **Mobile Application Specialist**: Architecting Android (Kotlin / Java) and Flutter apps with offline-first caching, clean MVVM, and production Google Play rollouts.
+- ⚙️ **Backend & Cloud**: Building scalable REST backends and integrations with Spring Boot, Python (Flask / FastAPI), Go, Docker, GCP, and Nginx.
+- 🤖 **AI & Automation**: Developing Gemini-powered RAG pipelines (Chroma / Langflow), automation bots, and multi-channel e-commerce synchronization engines.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
 ```text
-Languages   :: Python, C/C++, TypeScript, JavaScript, SQL, Bash
-Backend     :: FastAPI, Flask, REST APIs, WebSockets
-Frontend    :: React, Tailwind CSS, HTML5, CSS3
-Hardware    :: ESP32, Arduino, LoRa, I2C/SPI Sensors
-Infra & Ops :: Linux (Debian/Ubuntu), Docker, Nginx, Git, Redis
+Languages     :: Kotlin, Java, Python, Go, SQL, JavaScript, Dart
+Databases     :: Oracle Database, MySQL, SQLite, Redis, AWR Tuning
+Mobile        :: Android SDK, Jetpack Compose, Flutter, Firebase
+Backend & Web :: Spring Boot, Flask, FastAPI, Node.js, REST APIs
+Infra & Tools :: Linux (Ubuntu/Debian), Docker, GCP, Nginx, Git, CI/CD
+AI & ML       :: Gemini API, RAG, Langflow, ChromaDB, Prompt Engineering
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,tailwind,cpp,arduino,linux,docker,nginx,sqlite,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,python,go,spring,linux,docker,gcp,nginx,sqlite,git" alt="Tech Stack Icons" />
 </div>
+
+---
+
+### 🚀 Highlighted Work
+
+- **Madrasahku**: Islamic learning platform built with Flutter Web and custom REST backend.
+- **Alufiliate**: Automated affiliate video production pipeline combining web scraping, Gemini LLM scripts, Edge-TTS, and video rendering.
+- **POS Kok Online**: Omnichannel POS system with two-way TikTok Shop & Shopee stock sync, idempotency, and automated webhooks.
+- **Tan Malaka AI**: Historical research assistant using RAG architecture, vector embeddings, and Gemini.
 
 ---
 
@@ -48,5 +57,5 @@ Infra & Ops :: Linux (Debian/Ubuntu), Docker, Nginx, Git, Redis
 ---
 
 <div align="center">
-  <sub>Built with precision. Jakarta & Lamongan, Indonesia.</sub>
+  <sub>📍 Jakarta, Indonesia</sub>
 </div>
