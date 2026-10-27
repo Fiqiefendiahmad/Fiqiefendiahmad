@@ -1,126 +1,90 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Ahmad+Fiqi+Efendi" alt="Ahmad Fiqi Efendi" />
+<br />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=database+reliability;mobile+systems;cloud+infrastructure;applied+intelligence" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=24&duration=4000&pause=2000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=380&height=45&lines=Ahmad+Fiqi+Efendi" alt="Ahmad Fiqi Efendi" />
+
+Database Administrator · Mobile Engineer · Project Lead
 
 <br />
 
-<a href="https://cv.sadeyan.my.id/" title="Interactive CV"><img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e" height="28" /></a>
-<a href="https://linkedin.com/in/fiqi-efendi" title="LinkedIn"><img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=8b949e" height="28" /></a>
-<a href="mailto:fiqiefendi13@gmail.com" title="Email"><img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=gmail&logoColor=8b949e" height="28" /></a>
+[![CV](https://img.shields.io/badge/cv.sadeyan.my.id-E6EDF3?style=flat&logo=googlechrome&logoColor=0d1117)](https://cv.sadeyan.my.id/)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/fiqi--efendi-E6EDF3?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBkMTExNyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMJMMI5NSAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&logoColor=0d1117)](https://linkedin.com/in/fiqi-efendi)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/fiqiefendi13-E6EDF3?style=flat&logo=gmail&logoColor=0d1117)](mailto:fiqiefendi13@gmail.com)
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Fiqiefendiahmad&color=0d1117&style=flat-square&label=VIEWS" height="20" />
+<img src="https://komarev.com/ghpvc/?username=Fiqiefendiahmad&color=e6edf3&style=flat&label=views&labelColor=0d1117" height="18" />
 
 </div>
 
 <br />
 
-```
-Enterprise DBA at Maybank (via Infomedia Nusantara)
-24/7 Oracle production databases · 99.9%+ uptime · AWR performance engineering
-```
+> Enterprise DBA at **Maybank** via Infomedia Nusantara — 24/7 Oracle production databases, 99.9%+ uptime, AWR performance engineering.
 
 <br />
 
-<table>
-<tr>
-<td width="50%">
+###### WHAT I WORK WITH
 
-**databases**
-```
-oracle · mysql · sqlite · redis
-awr · query optimization · ha
-```
+`Oracle` `MySQL` `SQLite` `Redis` `Kotlin` `Java` `Python` `Go` `Flutter` `Dart` `Spring Boot` `FastAPI` `Flask` `Docker` `GCP` `Linux` `Nginx` `Gemini API` `ChromaDB` `RAG`
 
-**mobile**
-```
-kotlin · java · flutter · dart
-jetpack compose · mvvm · offline-first
-```
+<br />
 
-**backend**
-```
-spring boot · fastapi · flask · go
-rest apis · websockets
-```
+###### PROJECTS
 
-</td>
-<td width="50%">
+**[Madrasahku](https://islamic.sadeyan.my.id/#/home)** — Islamic learning platform
+`Flutter` `Dart` `REST API`
 
-**infrastructure**
-```
-linux · docker · gcp · nginx
-git · ci/cd · self-hosted
-```
+**[Alufiliate](https://alufiliate.sadeyan.my.id)** — Automated affiliate video pipeline
+`Python` `Gemini` `Edge-TTS`
 
-**intelligence**
-```
-gemini api · chromadb · rag
-langflow · vector embeddings
-```
+**[POS Kok Online](https://poskoko.sadeyan.my.id/)** — Omnichannel POS with marketplace sync
+`Node.js` `TikTok Shop` `Shopee API`
 
-**languages**
-```
-kotlin · java · python · go
-javascript · sql · dart · bash
-```
+**[Jastip](https://jastip.sadeyan.my.id/)** — Reservation platform
+`Flask` `SQLite` `Telegram Bot`
 
-</td>
-</tr>
-</table>
+**Hystory** — Android app, full lifecycle to Google Play
+`Kotlin` `Firebase` `GCP` `Docker`
+
+**Tan Malaka AI** — RAG-powered research assistant
+`Langflow` `Gemini` `ChromaDB`
 
 <br />
 
 <details>
-<summary>&nbsp;<b>production works</b></summary>
+<summary><sub>CERTIFICATIONS</sub></summary>
 <br />
 
-| | project | stack | |
-|---|---|---|---|
-| 01 | **madrasahku** — islamic learning platform | `flutter` `dart` `rest api` | [live](https://islamic.sadeyan.my.id/#/home) |
-| 02 | **alufiliate** — affiliate video automation | `python` `gemini` `edge-tts` | [live](https://alufiliate.sadeyan.my.id) |
-| 03 | **pos kok online** — omnichannel pos system | `node.js` `tiktok shop` `shopee api` | [live](https://poskoko.sadeyan.my.id/) |
-| 04 | **jastip** — reservation platform | `flask` `sqlite` `telegram bot` | [live](https://jastip.sadeyan.my.id/) |
-| 05 | **hystory** — android application | `kotlin` `firebase` `gcp` `docker` | — |
-| 06 | **tan malaka ai** — rag research assistant | `langflow` `gemini` `chroma` | — |
+`2025` Cybersecurity — IBM SkillsBuild
+`2025` AI Fundamentals — IBM SkillsBuild
+`2025` Data Science — IBM SkillsBuild
+`2025` Cloud Computing — IBM SkillsBuild
+`2025` IoT Essentials — IBM SkillsBuild
+`2025` Blockchain — IBM SkillsBuild
 
 </details>
 
 <br />
 
-<details>
-<summary>&nbsp;<b>certifications</b></summary>
-<br />
-
-| | cert | issuer |
-|---|---|---|
-| `2025` | Introduction to Cybersecurity | IBM SkillsBuild |
-| `2025` | AI Fundamentals | IBM SkillsBuild |
-| `2025` | Introduction to Data Science | IBM SkillsBuild |
-| `2025` | Cloud Computing Fundamentals | IBM SkillsBuild |
-| `2025` | IoT Essentials | IBM SkillsBuild |
-| `2025` | Blockchain Essentials | IBM SkillsBuild |
-
-</details>
-
-<br />
+###### ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fiqiefendiahmad&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&border_color=21262d&count_private=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fiqiefendiahmad&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_longest_streak=true" height="150" />
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fiqiefendiahmad&show_icons=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=8b949e&icon_color=e6edf3&border_color=21262d&count_private=true" width="95%" />
+</picture>
 
-<br />
+<picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fiqiefendiahmad&background=00000000&border=21262d&stroke=21262d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_longest_streak=true" width="95%" />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiqiefendiahmad&layout=compact&hide_title=true&bg_color=0d1117&text_color=8b949e&border_color=21262d&langs_count=8" height="140" />
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiqiefendiahmad&layout=compact&hide_title=true&bg_color=00000000&text_color=8b949e&border_color=21262d&langs_count=6" width="60%" />
+</picture>
 
 </div>
 
 <br />
 
 <div align="center">
-<sub>Jakarta, Indonesia · <a href="https://cv.sadeyan.my.id/">cv.sadeyan.my.id</a></sub>
+<sub>Jakarta, Indonesia</sub>
 </div>
