@@ -4,17 +4,12 @@
   <p><em>Enterprise database reliability, offline-first mobile engineering, and resilient full-stack systems.</em></p>
 
   <p>
-    <a href="https://cv.sadeyan.my.id/"><img src="https://img.shields.io/badge/Live%20CV-cv.sadeyan.my.id-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live CV" /></a>
-    <a href="https://linkedin.com/in/fiqi-efendi"><img src="https://img.shields.io/badge/LinkedIn-fiqi--efendi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:fiqiefendi13@gmail.com"><img src="https://img.shields.io/badge/Email-fiqiefendi13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Fiqiefendiahmad"><img src="https://img.shields.io/badge/GitHub-Fiqiefendiahmad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://cv.sadeyan.my.id/" title="Interactive CV"><img src="https://img.shields.io/badge/-%20-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive CV" /></a>
+    <a href="https://linkedin.com/in/fiqi-efendi" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:fiqiefendi13@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Fiqiefendiahmad" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
-
----
-
-### 🌐 Interactive Portfolio & CV
-Explore my full background, case studies, and live metrics at **[cv.sadeyan.my.id](https://cv.sadeyan.my.id/)**.
 
 ---
 
@@ -46,7 +41,6 @@ AI & ML       :: Gemini API, RAG, Langflow, ChromaDB, Prompt Engineering
 
 ### 🚀 Highlighted Work
 
-- **[Live Interactive CV](https://cv.sadeyan.my.id/)**: Personal portfolio & CV web platform with case studies and interactive metrics.
 - **[Madrasahku](https://islamic.sadeyan.my.id/#/home)**: Islamic learning platform built with Flutter Web and custom REST backend.
 - **[Alufiliate](https://alufiliate.sadeyan.my.id)**: Automated affiliate video production pipeline combining web scraping, Gemini LLM scripts, Edge-TTS, and video rendering.
 - **[POS Kok Online](https://poskoko.sadeyan.my.id/)**: Omnichannel POS system with two-way TikTok Shop & Shopee stock sync, idempotency, and automated webhooks.
