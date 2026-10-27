@@ -1,68 +1,126 @@
 <div align="center">
 
-# AHMAD FIQI EFENDI
-### Database Administrator &bull; Mobile Systems Engineer &bull; IT Project Lead
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=70&lines=Ahmad+Fiqi+Efendi" alt="Ahmad Fiqi Efendi" />
 
-<p>
-  <a href="https://cv.sadeyan.my.id/" title="Interactive Portfolio & CV" target="_blank">
-    <img src="https://img.shields.io/badge/-%20-121212?style=flat-square&logo=googlechrome&logoColor=f0ede8" alt="Interactive Portfolio" height="24" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/fiqi-efendi" title="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-%20-121212?style=flat-square&logo=linkedin&logoColor=f0ede8" alt="LinkedIn" height="24" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:fiqiefendi13@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/-%20-121212?style=flat-square&logo=gmail&logoColor=f0ede8" alt="Email" height="24" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Fiqiefendiahmad" title="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-%20-121212?style=flat-square&logo=github&logoColor=f0ede8" alt="GitHub" height="24" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=500&height=30&lines=database+reliability;mobile+systems;cloud+infrastructure;applied+intelligence" alt="Roles" />
+
+<br />
+
+<a href="https://cv.sadeyan.my.id/" title="Interactive CV"><img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e" height="28" /></a>
+<a href="https://linkedin.com/in/fiqi-efendi" title="LinkedIn"><img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e" height="28" /></a>
+<a href="mailto:fiqiefendi13@gmail.com" title="Email"><img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square&logo=maildotru&logoColor=8b949e" height="28" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Fiqiefendiahmad&color=0d1117&style=flat-square&label=VIEWS" height="20" />
 
 </div>
 
----
-
-### 01 / PRINCIPLES & FOCUS
-
-High-availability database infrastructure, offline-first mobile applications, and resilient cloud backends.
-
-* **Database Reliability & Performance** — 24/7 mission-critical Oracle production administration under strict enterprise SLAs (99.9%+ availability), slow query diagnostics, and AWR performance engineering.
-* **Mobile Systems Engineering** — Native Android (Kotlin / Java) and Flutter application architecture built on offline-first caching, reactive MVVM state patterns, and production store rollouts.
-* **Backend & Cloud Infrastructure** — Low-latency services in Spring Boot, Python (FastAPI / Flask), and Go, backed by containerized Docker deployments on GCP and Linux.
-* **Grounded AI Pipelines** — Vector retrieval systems (ChromaDB, Gemini API, RAG) and automated workflow orchestration.
-
----
-
-### 02 / TECHNICAL CAPABILITIES
+<br />
 
 ```
-DATABASES     │ Oracle Database · MySQL · SQLite · Redis · AWR Analysis
-MOBILE        │ Kotlin · Java · Flutter · Jetpack Compose · MVVM · Offline Sync
-BACKEND       │ Spring Boot · Python (FastAPI / Flask) · Go · REST APIs
-INFRASTRUCTURE│ Linux (Ubuntu/Debian) · Docker · GCP · Nginx · CI/CD
-INTELLIGENCE  │ Gemini API · Vector Search (ChromaDB) · RAG Architectures
+Enterprise DBA at Maybank (via Infomedia Nusantara)
+24/7 Oracle production databases · 99.9%+ uptime · AWR performance engineering
 ```
 
----
+<br />
 
-### 03 / PRODUCTION WORKS
+<table>
+<tr>
+<td width="50%">
 
-* **Madrasahku** — Islamic learning web platform powered by Flutter Web and custom REST services.
-* **Alufiliate** — Automated affiliate video generation pipeline combining web scrapers, Gemini scripts, and Edge-TTS synthesis.
-* **POS Kok Online** — Omnichannel POS platform featuring bidirectional marketplace stock synchronization and idempotent webhook execution.
-* **Tan Malaka AI** — Historical research assistant powered by vector retrieval and grounded Gemini responses.
+**databases**
+```
+oracle · mysql · sqlite · redis
+awr · query optimization · ha
+```
 
----
+**mobile**
+```
+kotlin · java · flutter · dart
+jetpack compose · mvvm · offline-first
+```
 
-### 04 / ACTIVITY TELEMETRY
+**backend**
+```
+spring boot · fastapi · flask · go
+rest apis · websockets
+```
+
+</td>
+<td width="50%">
+
+**infrastructure**
+```
+linux · docker · gcp · nginx
+git · ci/cd · self-hosted
+```
+
+**intelligence**
+```
+gemini api · chromadb · rag
+langflow · vector embeddings
+```
+
+**languages**
+```
+kotlin · java · python · go
+javascript · sql · dart · bash
+```
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<details>
+<summary>&nbsp;<b>production works</b></summary>
+<br />
+
+| | project | stack | |
+|---|---|---|---|
+| 01 | **madrasahku** — islamic learning platform | `flutter` `dart` `rest api` | [live](https://islamic.sadeyan.my.id/#/home) |
+| 02 | **alufiliate** — affiliate video automation | `python` `gemini` `edge-tts` | [live](https://alufiliate.sadeyan.my.id) |
+| 03 | **pos kok online** — omnichannel pos system | `node.js` `tiktok shop` `shopee api` | [live](https://poskoko.sadeyan.my.id/) |
+| 04 | **jastip** — reservation platform | `flask` `sqlite` `telegram bot` | [live](https://jastip.sadeyan.my.id/) |
+| 05 | **hystory** — android application | `kotlin` `firebase` `gcp` `docker` | — |
+| 06 | **tan malaka ai** — rag research assistant | `langflow` `gemini` `chroma` | — |
+
+</details>
+
+<br />
+
+<details>
+<summary>&nbsp;<b>certifications</b></summary>
+<br />
+
+| | cert | issuer |
+|---|---|---|
+| `2025` | Introduction to Cybersecurity | IBM SkillsBuild |
+| `2025` | AI Fundamentals | IBM SkillsBuild |
+| `2025` | Introduction to Data Science | IBM SkillsBuild |
+| `2025` | Cloud Computing Fundamentals | IBM SkillsBuild |
+| `2025` | IoT Essentials | IBM SkillsBuild |
+| `2025` | Blockchain Essentials | IBM SkillsBuild |
+
+</details>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fiqiefendiahmad&show_icons=true&bg_color=121212&title_color=f0ede8&text_color=9a9a9a&icon_color=f0ede8&border_color=242424" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiqiefendiahmad&layout=compact&bg_color=121212&title_color=f0ede8&text_color=9a9a9a&border_color=242424" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fiqiefendiahmad&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&border_color=21262d&count_private=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fiqiefendiahmad&background=0d1117&border=21262d&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_longest_streak=true" height="150" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiqiefendiahmad&layout=compact&hide_title=true&bg_color=0d1117&text_color=8b949e&border_color=21262d&langs_count=8" height="140" />
+
 </div>
 
----
+<br />
 
 <div align="center">
-  <sub>Jakarta, Indonesia</sub>
+<sub>Jakarta, Indonesia · <a href="https://cv.sadeyan.my.id/">cv.sadeyan.my.id</a></sub>
 </div>
